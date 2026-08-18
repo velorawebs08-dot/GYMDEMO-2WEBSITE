@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="15 15 365 155" width="100%" height="100%" fill="none">
+  <!-- Yellow Hexagon F1 Emblem -->
+  <g transform="translate(15, 15)">
+    <!-- Hexagon Outer Shape in #F5C21B -->
+    <path d="M60 5 L115 28 V138 L60 162 L5 138 V28 Z" fill="#F5C21B"/>
+    
+    <!-- Top-left F cutout & horizontal separator -->
+    <path d="M36 34 H95 V54 H55 V68 H84 V86 H55 V130 H36 Z" fill="#09090b"/>
+    <!-- Right side 1 shape vertical cut -->
+    <path d="M72 68 H95 V130 H72 Z" fill="#F5C21B"/>
+    <path d="M64 54 H95 V68 H64 Z" fill="#09090b"/>
+    <path d="M55 86 H84 V130 H55 Z" fill="#09090b"/>
+  </g>
+
+  <!-- Typography -->
+  <!-- Line 1: Fitness ® -->
+  <text x="145" y="72" fill="#FFFFFF" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="52" letter-spacing="-1">Fitness</text>
+  <text x="342" y="48" fill="#FFFFFF" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="20">®</text>
+  
+  <!-- Line 2: First -->
+  <text x="145" y="122" fill="#FFFFFF" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="52" letter-spacing="-1">First</text>
+
+  <!-- Line 3: Being Fit With Swapnil -->
+  <text x="147" y="156" fill="#FFFFFF" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="400" font-size="20" letter-spacing="0.2">Being Fit With Swapnil</text>
+</svg>

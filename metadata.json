@@ -1,0 +1,6 @@
+{
+  "name": "Fitness First®",
+  "description": "Fitness First gym in Kolhapur, Maharashtra. Being Fit With Swapnil. Real People, Real Results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
